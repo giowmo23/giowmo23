@@ -97,20 +97,13 @@ me = AIArchitect()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=giowmo23&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=giowmo23&theme=tokyonight&hide_border=true" height="165" alt="Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giowmo23&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Se llena al correr el workflow de metrics -->
 <img src="https://raw.githubusercontent.com/giowmo23/giowmo23/main/github-metrics.svg" alt="Metrics" />
 
 </div>
-
 ---
 
 ## ⚡ Fun Fact
