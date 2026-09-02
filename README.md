@@ -1,24 +1,41 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2EA44F&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Geovanni+Hern%C3%A1ndez+%F0%9F%91%8B;AI+Architect+%7C+CTO+%40+OptiPixel;Built+an+LLM+from+scratch+%F0%9F%A7%A0;Private+LLMs+%2B+Voice+AI+Infrastructure;Building+AI+for+Latin+America+%F0%9F%8C%8E" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2EA44F&center=true&vCenter=true&width=650&lines=Geovanni+Hern%C3%A1ndez;CTO+%26+Co-Founder+%40+OptiPixel;I+build+the+layers+others+rent+%F0%9F%A5%B7;AI+Infrastructure+for+Latin+America+%F0%9F%8C%8E" alt="Typing SVG" />
 
-🌍 Based in Guatemala | 💡 Building institutional AI products for LATAM
+**AI Architect · CTO & Co-Founder @ OptiPixel · Guatemala 🇬🇹**
 
-*AI Architect | LLM Builder | Voice AI | VoIP/SIP Engineer | Private AI Infrastructure*
+*I don't just lead engineering — I build the technology myself, from silicon to LLM.*
 
 </div>
 
-Welcome to my GitHub profile! I'm an **AI Architect** and the CTO & Co-Founder of **OptiPixel**, where we build the **Sofia Suite** — AI conversational and voice agents powered by **LLMs we built from scratch** and running on our own proprietary telephony infrastructure. I design and deploy **private LLMs** end-to-end: training, inference, scaling, and integration. 20+ years deep in VoIP/SIP, now fused with real-time AI. Owning your infrastructure — and your models — **is** the moat. 🥷
+---
+
+## 💼 The 30-Second Version
+
+**What we do:** OptiPixel builds the **Sofia Suite** — enterprise AI agents for chat (WhatsApp/web) and voice (telephony), deployed with businesses across Latin America.
+
+**What makes it defensible:** While competitors stack third-party APIs, we own the two hardest layers:
+
+| Layer | What we own | Why it matters |
+|---|---|---|
+| 🧠 **The models** | **Sofia LLM** — our own LLM, built from scratch, offered as private deployments (cloud & on-premise), scaling 17B → 32B parameters | Unit economics, data privacy, and enterprise compliance that API-resellers can't match |
+| ☎️ **The pipes** | Proprietary telephony infrastructure — direct SIP trunking with regional carriers (Claro, Tigo, DIDWW) | Real-time voice AI with the latency, cost structure, and reliability that rented infrastructure can't deliver |
+
+**Why me:** 20+ years building telecom infrastructure across Central America, now converged with AI. Systems & Electronics Engineer. I've personally designed, built, and shipped every layer of this stack — and I lead the team that runs it in production.
+
+> *"Own your models. Own your infrastructure. That's the moat."*
 
 ---
 
-## 🧑‍💻 Who am I? Let the code speak
+## 🥷 For the Technical Diligence — Let the Code Speak
+
+Proof I'm a hands-on CTO, in the format I think in:
 
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class AIArchitect:
+class NinjaCTO:
 
     def __init__(self):
         self.name = "Geovanni Hernández"
@@ -31,12 +48,12 @@ class AIArchitect:
     def llm_expertise(self):
         return {
             "built_from_scratch": "Sofia LLM — designed, trained and deployed from 0",
-            "private_llms": "On-premise & cloud private LLM deployments for enterprises",
-            "scaling": "Self-hosted inference infrastructure: 17B → 32B parameters",
+            "private_llms": "On-premise & cloud deployments for enterprises",
+            "scaling": "Self-hosted inference: 17B → 32B parameters",
             "gpu_infra": ["RunPod", "GPU cluster orchestration"],
         }
 
-    def current_stack(self):
+    def full_stack_ownership(self):
         return {
             "ai": ["Custom LLMs built from 0", "Private LLM deployments",
                    "Claude API", "GPU inference at scale"],
@@ -48,19 +65,29 @@ class AIArchitect:
                         "Vercel", "Cloudflare", "DigitalOcean"],
         }
 
-    def building(self):
-        return ["Sofia Chat 💬", "Sofia Call 📞", "Sofia LLM 🧠"]
+    def shipping(self):
+        return ["Sofia LLM 🧠", "Sofia Chat 💬", "Sofia Call 📞"]
 
-    def philosophy(self):
-        return "Own your models. Own your infrastructure. That's the moat."
+    def operating_principle(self):
+        return "Depth over hype. Production over demos. Ownership over dependency."
 
 
-me = AIArchitect()
+me = NinjaCTO()
 ```
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🏗️ The Sofia Suite — In Production
+
+| Product | What it does | The edge |
+|---|---|---|
+| 🧠 **Sofia LLM** | Our own LLM for enterprises that can't send data to third parties | Built from 0 · private cloud & on-premise · 17B→32B |
+| 💬 **Sofia Chat** | AI conversational agents for WhatsApp & web | Deployed across LATAM businesses |
+| 📞 **Sofia Call** | Voice AI with outbound campaigns | Runs on our own SIP infrastructure — not rented |
+
+---
+
+## 🛠️ The Stack I Build With
 
 <div align="center">
 
@@ -70,26 +97,10 @@ me = AIArchitect()
 
 ![LLM](https://img.shields.io/badge/LLM_from_Scratch-Sofia_LLM-8e44ad?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Private LLM](https://img.shields.io/badge/Private_LLMs-On--premise_%26_Cloud-4a148c?style=for-the-badge)
-![Scaling](https://img.shields.io/badge/Inference_Scaling-17B→32B-6a1b9a?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude_API-Anthropic-d97757?style=for-the-badge)
-![Pipecat](https://img.shields.io/badge/Pipecat-Real--time_Voice-blueviolet?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/faster--whisper-STT-00A67E?style=for-the-badge)
-![Silero](https://img.shields.io/badge/Silero-VAD-orange?style=for-the-badge)
-![SIP](https://img.shields.io/badge/SIP-Trunking-0078D7?style=for-the-badge)
-![FusionPBX](https://img.shields.io/badge/FusionPBX-PBX-2c3e50?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Voice](https://img.shields.io/badge/Real--time_Voice_AI-Pipecat_·_Whisper_·_Silero-blueviolet?style=for-the-badge)
+![SIP](https://img.shields.io/badge/Proprietary_Telephony-SIP_·_FusionPBX_·_Carriers-0078D7?style=for-the-badge)
 
 </div>
-
----
-
-## 🏗️ What I'm Building — The Sofia Suite
-
-| Project | Description |
-|---|---|
-| 🧠 **Sofia LLM** | Our own LLM built from scratch — private deployments (cloud & on-premise), scaling from 17B to 32B parameters |
-| 💬 **Sofia Chat** | AI conversational agents for WhatsApp & web — deployed across LATAM |
-| 📞 **Sofia Call** | Voice AI with outbound campaigns on proprietary SIP infrastructure |
 
 ---
 
@@ -99,9 +110,9 @@ I've spent 20+ years making phones ring across Central America — now I build t
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Talk
 
-I'm always open to talking about LLMs, private AI deployments, voice AI, or building for LATAM. Reach out!
+Building with AI in LATAM? Evaluating voice AI or private LLM deployments? Investing in the region? My door is open.
 
 <div align="center">
 
