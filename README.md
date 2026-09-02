@@ -93,19 +93,6 @@ me = AIArchitect()
 
 ---
 
-## 📊 Stats & Metrics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=giowmo23&theme=tokyonight&hide_border=true" height="165" alt="Streak" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/giowmo23/giowmo23/main/github-metrics.svg" alt="Metrics" />
-
-</div>
----
-
 ## ⚡ Fun Fact
 
 I've spent 20+ years making phones ring across Central America — now I build the AI brains that answer them. ☎️🧠
